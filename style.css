@@ -1,47 +1,166 @@
 div {
     padding: 0;
-    border:  0;
+    border: 0;
     font-size: 100%;
 }
+
 body.elementor-page-8906 {
     padding: 0px 0px 0px 0px;
 }
-.if-zoom {
+
+.rabotniki12 {
+    max-width: 900px;
+
 }
+
+.if-zoom {}
+
 .layout-boxed {
     padding: 25px 0;
 }
+
 body {
     font-size: 16px;
     line-height: 21px;
     font-weight: 400;
     letter-spacing: 0px;
 }
-body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
+
+body,
+button,
+span.date_label,
+.timeline_items li h3 span,
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+input[type="text"],
+input[type="password"],
+input[type="tel"],
+input[type="email"],
+textarea,
+select,
+.offer_li .title h3 {
     font-family: "Arial", Arial, Tahoma, sans-serif;
 }
-body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover, .widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title, .content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc, .post-nav.minimal a i {
+
+body,
+ul.timeline_items,
+.icon_box a .desc,
+.icon_box a:hover .desc,
+.feature_list ul li a,
+.list_item a,
+.list_item a:hover,
+.widget_recent_entries ul li a,
+.flat_box a,
+.flat_box a:hover,
+.story_box .desc,
+.content_slider.carouselul li a .title,
+.content_slider.flat.description ul li .desc,
+.content_slider.flat.description ul li a .desc,
+.post-nav.minimal a i {
     color: #000000;
 }
+
 @media only screen and (min-width: 960px) and (max-width: 1239px) {
     body {
         min-width: 0;
     }
 }
-html, body {
+
+html,
+body {
     overflow-x: hidden;
 }
+
 body {
     min-width: 960px;
 }
+
 body {
     -webkit-font-smoothing: antialiased;
     -webkit-text-size-adjust: 100%;
 }
+
 body {
     line-height: 1;
 }
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, tt, var, b, u, i, center, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+tt,
+var,
+b,
+u,
+i,
+center,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
     margin: 0;
     padding: 0;
     border: 0;
@@ -49,6 +168,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     font: inherit;
     vertical-align: baseline;
 }
+
 body {
     --wp--preset--color--black: #000000;
     --wp--preset--color--cyan-bluish-gray: #abb8c3;
@@ -99,27 +219,33 @@ body {
     --wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
     --wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);
 }
-user agent stylesheet
-body {
+
+user agent stylesheet body {
     display: block;
     margin: 8px;
 }
+
 :root {
     --wp--preset--font-size--normal: 16px;
     --wp--preset--font-size--huge: 42px;
 }
+
 .page-template-elementor_canvas.elementor-page:before {
     display: none;
 }
+
 *::selection {
     background-color: #f36525;
 }
+
 ::selection {
     color: #fff;
 }
+
 *::selection {
     background-color: #f36525;
 }
+
 ::selection {
     color: #fff;
 }
